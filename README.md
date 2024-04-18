@@ -36,7 +36,7 @@ Note: Gradient leakage attacks are also commonly referred to as "Gradient Recons
   - Zhaohua Li, Le Wang, Guangyao Chen, Muhammad Shafq, and zhaoquan Gu. *Authorea Preprints*, 2023.
 - A Survey on Gradient Inversion: Attacks, Defenses and Future Directions
   - Rui Zhang, Song Guo, Junxiao Wang, Xin Xie and Dacheng Tao. *International Joint Conference on Artificial Intelligence*, 2022.
-- Gradient leakage attacks in federated learnin
+- Gradient leakage attacks in federated learning
   - Haimei Gong, Liangjun Jiang, Xiaoyang Liu, Yuanqi Wang, Omary Gastro, Lei Wang, Ke Zhang, and Zhen Guo. *Artificial Intelligence Review*, 2023.
 - Gradient Leakage Attacks in Federated Learning: Research Frontiers, Taxonomy and Future Directions
   - Haomiao Yang, Mengyu Ge, Dongyun Xue, Kunlan Xiang, Hongwei Li, and Rongxing Lu. *IEEE Network*, 2023.
