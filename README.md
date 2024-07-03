@@ -30,7 +30,7 @@ Note: Gradient leakage attacks are also commonly referred to as "Gradient Recons
 
 - SoK: Gradient Leakage in Federated Learning
   - Jiacheng Du, Jiahui Hu, Zhibo Wang, Peng Sun, Neil Zhenqiang Gong, and Kui Ren. *arXiv*, 2024.
-- Review of Deep Gradient Inversion Attacks and Defenses in Federated Learning [[pdf]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT230541)
+- Review of Deep Gradient Inversion Attacks and Defenses in Federated Learning [[pd]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT230541)
   - Yu Sun, Yu Yan, Jian Cui, Gaojian Xiong, Jianhua Liu. 电子学报, 2024.
 
 - A Comprehensive Study of Gradient Inversion Attacks in Federated Learning and Baseline Defense Strategies
