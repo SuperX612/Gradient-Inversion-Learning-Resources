@@ -116,7 +116,7 @@ Note: Gradient leakage attacks are also commonly referred to as "Gradient Recons
 - Learning To Invert: Simple Adaptive Attacks for Gradient Inversion in Federated Learning [[pdf]](https://proceedings.mlr.press/v216/wu23a.html) [[code]](https://github.com/wrh14/Learning_to_Invert)
 
   - Ruihan Wu, Xiangyu Chen, Chuan Guo, Kilian Q. Weinberger. Thirty-Ninth Conference on Uncertainty in Artificial Intelligence (PMLR), 2023.
-- Using Highly Compressed Gradients in Federated Learning for Data Reconstruction Attacks [[pdf]](https://ieeexplore.ieee.org/abstract/document/10003066/) [[code]]([SuperX612/HCGLA (github.com)](https://github.com/SuperX612/HCGLA))
+- Using Highly Compressed Gradients in Federated Learning for Data Reconstruction Attacks [[pdf]](https://ieeexplore.ieee.org/abstract/document/10003066/) [[code]](https://github.com/SuperX612/HCGLA)
   - Haomiao Yang, Mengyu Ge, Kunlan Xiang, Jingwei Li. TIFS, 2023.
 - When the Curious Abandon Honesty: Federated Learning Is Not Private [[pdf]](https://ieeexplore.ieee.org/abstract/document/10190537/) [[code]](https://github.com/JonasGeiping/breaching)
   - Franziska Boenisch, Adam Dziedzic, Roei Schuster, Ali Shahin Shamsabadi, Ilia Shumailov, Nicolas Papernot. EuroS&P, 2023.
