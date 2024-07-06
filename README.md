@@ -58,7 +58,7 @@ Note: Gradient leakage attacks are also commonly referred to as "Gradient Recons
 
 ## Tools
 
-- [breaching]([JonasGeiping/breaching: Breaching privacy in federated learning scenarios for vision and text (github.com)](https://github.com/JonasGeiping/breaching))
+- [breaching](https://github.com/JonasGeiping/breaching)
 
 ## Gradient Inversion for Computer Vision
 
