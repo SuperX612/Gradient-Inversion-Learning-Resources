@@ -182,7 +182,7 @@ Note: Gradient leakage attacks are also commonly referred to as "Gradient Recons
   - Jinwoo Jeon, Jaechang Kim, Kangwook Lee, Sewoong Oh, Jungseul Ok. NeurIPS, 2021.
 - CAFE: Catastrophic Data Leakage in Vertical Federated Learning [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/08040837089cdf46631a10aca5258e16-Abstract.html) [[code]](https://github.com/DeRafael/CAFE)
   - Xiao Jin, Pin-Yu Chen, Chia-Yi Hsu, Chia-Mu Yu, Tianyi Chen. NeurIPS, 2021.
-- Evaluating Gradient Inversion Attacks and Defenses in Federated Learning [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html) [[code]](https://github.com/ RuslandGadget/FCN-Inv)
+- Evaluating Gradient Inversion Attacks and Defenses in Federated Learning [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html) [[code]](https://github.com/RuslandGadget/FCN-Inv)
 
   - Yangsibo Huang, Samyak Gupta, Zhao Song, Kai Li, Sanjeev Arora. NeurIPS, 2021.
 - Understanding Training-Data Leakage from Gradients in Neural Networks for ImageClassifications [[pdf]](https://arxiv.org/abs/2111.10178)
