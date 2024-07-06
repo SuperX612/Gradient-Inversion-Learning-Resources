@@ -334,7 +334,7 @@ Note: Gradient leakage attacks are also commonly referred to as "Gradient Recons
   - Hanchi Ren, Jingjing Deng, Xianghua Xie, Xiaoke Ma, Jianfeng Ma. arXiv, 2023.
 - Enhancing Privacy Preservation in Federated Learning via Learning Rate Perturbation [[pdf]](http://openaccess.thecvf.com/content/ICCV2023/html/Wan_Enhancing_Privacy_Preservation_in_Federated_Learning_via_Learning_Rate_Perturbation_ICCV_2023_paper.html)
   - Guangnian Wan, Haitao Du, Xuejing Yuan, Jun Yang, Meiling Chen, Jie Xu. ICCV, 2023.
-- DPAUC: Differentially Private AUC Computation in Federated Learning [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26770) [[code]](https://github.com/bytedance/fedlearner/tree/master/ example/privacy/DPAUC)
+- DPAUC: Differentially Private AUC Computation in Federated Learning [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26770) [[code]](https://github.com/bytedance/fedlearner/tree/master/example/privacy/DPAUC)
   - Jiankai Sun, Xin Yang, Yuanshun Yao, Junyuan Xie, Di Wu, Chong Wang. AAAI, 2023.
 - Dropout Is NOT All You Need to Prevent Gradient Leakage [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26163)
   - Daniel Scheliga, Patrick M ̈ ader, Marco Seeland. AAAI, 2023.
