@@ -28,6 +28,10 @@ Note: Gradient leakage attacks are also commonly referred to as "Gradient Recons
   
   - [Gradient Inversion in FedAvg](#gradient-inversion-in-fedAvg)
 - [Gradient Inversion towards Other Tasks](#gradient-inversion-towards-other-tasks)
+  - [Gradient Inversion in Natural Language Processing (NLP)](#Gradient Inversion in Natural Language Processing (NLP))
+  - [Gradient Inversion in Table](#Gradient Inversion in Table)
+  - [Gradient Inversion in Speech Processing](#Gradient Inversion in Speech Processing)
+
 - [Defenses for Gradient Inversion](#defenses-for-gradient-inversion)
 
 ## Survey
@@ -297,7 +301,16 @@ Note: Gradient leakage attacks are also commonly referred to as "Gradient Recons
 - Speech Privacy Leakage from Shared Gradients in Distributed Learning [[pdf]](https://ieeexplore.ieee.org/document/10095443)
   - Zhuohang Li, Jiaxin Zhang, Jian Liu. ICASSP, 2023.
 
-## Defenses for Gradient Inversion
+### Gradient Inversion in Graph Neural Networks (GNN)
+
+- Gradient Inversion Attack on Graph Neural Networks [[pdf]](https://arxiv.org/abs/2411.19440)
+  - Divya Anand Sinha, Yezi Liu, Ruijie Du, Yanning Shen. Arxiv, 2024.
+
+- GRAIN: Exact Graph Reconstruction from Gradients [[pdf]](https://openreview.net/forum?id=7bAjVh3CG3)
+  - Anonymous. Openreview, 2024.
+
+
+## Defenses for Gradient Inanonymousversion
 
 **2024**
 
