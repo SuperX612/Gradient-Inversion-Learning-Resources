@@ -28,13 +28,13 @@ Note: Gradient leakage attacks are also commonly referred to as "Gradient Recons
   
   - [Gradient Inversion in FedAvg](#gradient-inversion-in-fedAvg)
 - [Gradient Inversion towards Other Tasks](#gradient-inversion-towards-other-tasks)
-  - [Gradient Inversion in Natural Language Processing (NLP)](#Gradient Inversion in Natural Language Processing (NLP))
+  - [Gradient Inversion in Natural Language Processing (NLP)](#Gradient-Inversion-in-Natural-Language-Processing-(NLP))
 
-  - [Gradient Inversion in Table](#Gradient Inversion in Table)
+  - [Gradient Inversion in Table](#Gradient-Inversion-in-Table)
 
-  - [Gradient Inversion in Speech Processing](#Gradient Inversion in Speech Processing)
+  - [Gradient Inversion in Speech Processing](#Gradient-Inversion-in-Speech-Processing)
   
-  - [Gradient Inversion in Graph Neural Networks (GNN)](#Gradient Inversion in Graph Neural Networks (GNN))
+  - [Gradient Inversion in Graph Neural Networks (GNN)](#Gradient-Inversion-in-Graph-Neural-Networks (GNN))
 
 - [Defenses for Gradient Inversion](#defenses-for-gradient-inversion)
 
